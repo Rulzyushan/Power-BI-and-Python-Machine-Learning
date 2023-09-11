@@ -1,1 +1,1 @@
-# Power-BI-and-Python-Machine-Learning
+# PowerBI and Python - Machine Learning
