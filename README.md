@@ -5,3 +5,5 @@
 
 #### Employee left the company Prediction - Logistic Regression Model
 ![Screenshot 2023-09-13 114859](https://github.com/Rulzyushan/Power-BI-and-Python-Machine-Learning/assets/106433847/ba9bb325-d0ad-4200-aa4d-3981d4492775)
+#### Sales Prediction - Multiple Linear Regression Model
+[Sales_Prediction.pdf](https://github.com/Rulzyushan/Power-BI-and-Python-Machine-Learning/files/12596508/Sales_Prediction.pdf)
